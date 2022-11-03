@@ -6,8 +6,7 @@ div.first {
 body {
     background-image: url("blauw.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    
 }
 
 .titel {
