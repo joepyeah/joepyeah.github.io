@@ -4,7 +4,11 @@
     font-family: Georgia;
 }
 
-#paginakopje {
+#homepagekopje {
     text-align: center;
-    font-size: 60px;
+    font-size: x-large;
+}
+
+#paginakopje {
+    font-size: large;
 }
