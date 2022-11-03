@@ -1,20 +1,8 @@
 
-#titel
-h1 {
+#titel {
     text-align: center;
-    font-family: Impact;
+    font-family: Georgia;
 }
-
-h2 {
-    text-align: center;
-    font-family: Impact;
-}
-
-h3 {
-    text-align: center;
-    font-family: Impact;
-}
-
 
 #menu {
     text-align: left;
