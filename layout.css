@@ -24,3 +24,8 @@ h3.titel {
 h4.titel {
     font-size: 30px;
 }
+
+ul.rand {
+    border-style: dashed;
+    border-color: white;
+}
