@@ -1,5 +1,10 @@
 
-#titel {
+.titel {
     text-align: center;
     font-family: Georgia;
+}
+
+#paginakopje {
+    text-align: center;
+    font-size: medium;
 }
