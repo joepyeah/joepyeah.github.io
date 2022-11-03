@@ -3,14 +3,6 @@ div.first {
     background-color:cadetblue;
 }
 
-body {
-    background-image: url("blauw.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    
-}
-
 .titel {
     text-align: center;
     font-family: Georgia;
@@ -23,4 +15,9 @@ h3.titel {
 
 h4.titel {
     font-size: 30px;
+}
+
+body.menu {
+    border-style: dashed;
+    border-color: white;
 }
