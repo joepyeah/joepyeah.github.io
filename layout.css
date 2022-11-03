@@ -17,6 +17,11 @@ h4.titel {
     font-size: 30px;
 }
 
+body.menu {
+    border-style: dashed;
+    border-color: aqua;
+}
+
 body {
     background-image: url("blauw.jpg");
     background-repeat: no-repeat;
