@@ -1,7 +1,8 @@
 
-#titel {
+#titel
+h1 {
     text-align: center;
-    font-family: Verdana;
+    font-family: Impact;
 }
 
 #menu {
