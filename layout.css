@@ -1,14 +1,22 @@
 
+div.1 {
+    background-color:cadetblue;
+}
+
+body {
+    background-image: ;
+}
+
 .titel {
     text-align: center;
     font-family: Georgia;
 }
 
-#homepagekopje {
+h3.titel {
     text-align: center;
     font-size: 30px;
 }
 
-#paginakopje {
+h4.titel {
     font-size: 30px;
 }
