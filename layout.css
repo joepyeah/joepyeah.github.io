@@ -1,5 +1,10 @@
 
 #titel {
     text-align: center;
-    font-family: papyrus;
+    font-family: sans-serif;
+}
+
+#body {
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif
 }
