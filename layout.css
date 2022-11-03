@@ -4,7 +4,12 @@
     font-family: sans-serif;
 }
 
-#body {
+#menu {
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#tekst {
     text-align: left;
     font-family:Arial, Helvetica, sans-serif
 }
