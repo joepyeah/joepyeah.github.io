@@ -7,7 +7,7 @@ body {
 }
 
 div.first {
-    background-color:whitesmoke;
+    background-color:gray;
 }
 
 .titel {
@@ -31,3 +31,6 @@ ul.menu {
     padding: 0;
 }
 
+li.menu {
+    style="color:white
+}
