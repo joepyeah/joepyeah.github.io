@@ -23,16 +23,6 @@ body.menu {
     text-align: left;
 }
 
-body.titel {
-    border-style: none;
-    text-align: left;
-}
-
-body.tekst {
-    border-style: none;
-    text-align: left;
-}
-
 body {
     background-image: url("blauw.jpg");
     background-repeat: no-repeat;
