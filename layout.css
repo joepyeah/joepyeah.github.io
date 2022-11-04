@@ -1,4 +1,11 @@
 
+body {
+    background-image: url("blauw.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 div.first {
     background-color:whitesmoke;
 }
@@ -18,9 +25,9 @@ div.first {
     font-family: arial;
 }
 
-body {
-    background-image: url("blauw.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
+
