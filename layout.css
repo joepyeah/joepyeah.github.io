@@ -8,10 +8,14 @@ div.first {
     font-family: Georgia;
 }
 
-body.menu {
-    border-style: dashed;
-    border-color: white;
+.menu {
     text-align: left;
+    font-family: Arial;
+}
+
+.tekst {
+    text-align: left;
+    font-family: arial;
 }
 
 body {
