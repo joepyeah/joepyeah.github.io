@@ -19,7 +19,15 @@ h4.titel {
 
 body.menu {
     border-style: dashed;
-    border-color: aqua;
+    border-color: white;
+}
+
+body.titel {
+    border-style: none;
+}
+
+body.tekst {
+    border-style: none;
 }
 
 body {
