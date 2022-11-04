@@ -8,15 +8,6 @@ div.first {
     font-family: Georgia;
 }
 
-h3.titel {
-    text-align: center;
-    font-size: 30px;
-}
-
-h4.titel {
-    font-size: 30px;
-}
-
 body.menu {
     border-style: dashed;
     border-color: white;
