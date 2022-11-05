@@ -47,7 +47,17 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
-    background-color: #555;
+li a:hover {
+    background-color: rgb(55, 90, 207);
     color:white
+}
+
+li a.active {
+    background-color: #7c9ddb;
+    color: white;
+}
+  
+li a:hover:not(.active) {
+    background-color: white;
+    color: black;
 }
