@@ -17,7 +17,7 @@ div.first {
 
 .menu {
     text-align: left;
-    font-family: Arial;
+    font-family: monospace;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -25,7 +25,8 @@ div.first {
 
 .tekst {
     text-align: right;
-    font-family: arial;
+    font-family: monospace;
     color:white
+
 
 }
