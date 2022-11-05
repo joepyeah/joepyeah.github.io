@@ -18,17 +18,15 @@ div.first {
 .menu {
     text-align: left;
     font-family: Arial;
-}
-
-.tekst {
-    text-align: left;
-    font-family: arial;
-}
-
-ul.menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+.tekst {
+    text-align: right;
+    font-family: arial;
+    style="color:white"
 }
 
 li.menu {
