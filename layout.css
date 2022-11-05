@@ -8,6 +8,7 @@ body {
 
 p {
     font-size: 20px;
+    color:white
 }
 
 div.first {
@@ -26,6 +27,11 @@ div.first {
 
 }
 
+.menu {
+    background-color: white;
+    color:#000
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -41,7 +47,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li a:hover:not(.active) {
     background-color: #555;
     color:white
 }
