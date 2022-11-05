@@ -21,10 +21,10 @@ div.first {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    color: white;
 }
 
 .tekst {
     text-align: right;
     font-family: arial;
+    color: white
 }
