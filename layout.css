@@ -8,25 +8,27 @@ body {
 
 p {
     font-size: 15px;
-    color:white
+    color:white;
 }
 
 .titel {
     text-align: center;
     font-family: Georgia;
     background-color: white;
+    padding: 20px;
 }
 
 .tekst {
     text-align: right;
     font-family: monospace;
-    color:white
+    color:white;
 
 }
 
 .menu {
+    padding: 20px;
     background-color: white;
-    color:#000
+    color:#000;
 }
 
 p.menu {
