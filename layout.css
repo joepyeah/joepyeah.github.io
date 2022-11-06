@@ -30,6 +30,24 @@ body {
     padding: 10px
 }
 
+.footer {
+    float: left;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    left: 1;
+    bottom: 0;
+    background: #ffffff;
+}
+
+.footer p {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
 .active {
     background-color: #7c9ddb;
     color: white;
