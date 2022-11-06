@@ -11,13 +11,10 @@ p {
     color:white
 }
 
-div.titel {
-    background-color:white;
-}
-
 .titel {
     text-align: center;
     font-family: Georgia;
+    background-color: white;
 }
 
 .tekst {
@@ -56,7 +53,16 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li a:hover:not(.active) {
     background-color: rgb(55, 90, 207);
     color:rgb(255, 255, 255)
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+li:last-child {
+    border-bottom: none;
 }
