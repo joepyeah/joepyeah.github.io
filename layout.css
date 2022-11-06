@@ -11,7 +11,7 @@ p {
     color:white
 }
 
-div.first {
+div.titel {
     background-color:white;
 }
 
@@ -30,6 +30,10 @@ div.first {
 .menu {
     background-color: white;
     color:#000
+}
+
+p.menu {
+    font-size: 20px;
 }
 
 .active {
@@ -56,4 +60,3 @@ li a:hover {
     background-color: rgb(55, 90, 207);
     color:rgb(255, 255, 255)
 }
-
