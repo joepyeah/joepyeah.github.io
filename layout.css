@@ -7,7 +7,7 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 15px;
     color:white
 }
 
@@ -32,6 +32,11 @@ div.first {
     color:#000
 }
 
+.active {
+    background-color: #7c9ddb;
+    color: white;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -49,15 +54,6 @@ li a {
 
 li a:hover {
     background-color: rgb(55, 90, 207);
-    color:white
+    color:rgb(255, 255, 255)
 }
 
-li a.active {
-    background-color: #7c9ddb;
-    color: white;
-}
-  
-li a:hover:not(.active) {
-    background-color: white;
-    color: black;
-}
