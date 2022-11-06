@@ -15,18 +15,18 @@ p {
     text-align: center;
     font-family: Georgia;
     background-color: white;
-    padding: 20px;
+    padding: 5px;
 }
 
 .tekst {
-    text-align: right;
     font-family: monospace;
     color:white;
-
+    float:right
 }
 
 .menu {
-    padding: 20px;
+    style
+    padding: 5px;
     background-color: white;
     color:#000;
 }
