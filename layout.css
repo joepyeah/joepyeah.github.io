@@ -3,6 +3,7 @@ body {
     background-image: url("blauw.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     padding: 10px
 }
 
