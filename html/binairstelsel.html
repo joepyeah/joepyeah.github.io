@@ -1,30 +1,48 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html> <!--Dit is de homepage van mijn site-->
+<html> <!--Dit is het html element-->
+  
+  <head> <!--Dit is een heading-->
 
-    <head>
-        <title>Binair stelsel</title>
-    </head>
+    <title>Homepagina</title>
+    <link rel="stylesheet" href="layout.css"> <!--hiermee zorg ik dat de layout.css zijn werk doet in het html document-->
 
-    <body>
-        <h3>Binaire stelsel </h3>
-        <hr>
+  </head> <!--afsluiter van een heading-->
+ 
+  <body> <!--Wat hier komt te staan wordt zichtbaar op de website-->
 
-        <p>Menu met de links van de verschillende pagina's:</p>
-        <ul>
-            <li><a href="/index.html" title="Klik hier om naar de homepage te gaan">Homepagina</a></li>
-            <li><a href="/html/algemeneinformatie.html" title="Klik hier om over de algemene informatie te lezen">Algemene informatie</a></li> <!--de 'title=""' geeft tekst weer als je de muis op de link houdt-->
-            <li><a href="/html/binairstelsel.html" title="Klik hier om over het binaire stelsel te lezen">Het binaire stelsel</a></li>
-            <li><a href="/html/kleurmodellen.html" title="Klik hier om over kleurmodellen te lezen">Kleurmodellen</a></li>
-            <li><a href="/html/compressie.html" title="Klik hier om over compressie te lezen">Compressie</a></li>
-            <li><a href="/html/bestandsformaten.html" title="klik hier om over bestandsformaten te lezen">Bestandsformaten</a></li>
-          </ul>
-    </body>
+    <div class="titel">
 
-    <body>
-        <h4>Wat is het binaire stelsel?</h4>
-        <p>Wat is dat eigenlijk, het binaire stelsel?</p>
-        <p>Het binaire stelsel is de taal van nulletjes en ééntjes. Dat ziet er heel ingewikkeld uit, maar als je het eenmaal snapt is het eigenlijk heel makkelijk.</p>
-        <p>Het binaire stelsel is een soort wiskunde. (...)</p>
-    </body>
+      <h1 class="titel">HTML PO</h1>
+      <h2 class="titel">Joep van Wijngaarden</h2>
 
+    </div>
+
+    <hr>
+
+    <div class="links">
+
+      <p class="menu">Menu</p> <!--Menu met links (of anchors)-->
+      <ul>
+        <li><a class="active" href="/index.html" title="Klik hier om naar de homepage te gaan">Homepagina</a></li>
+        <li><a href="/html/algemeneinformatie.html" title="Klik hier om over de algemene informatie te lezen">Algemene informatie</a></li> <!--de 'title=""' geeft tekst weer als je de muis op de link houdt-->
+        <li><a href="/html/binairstelsel.html" title="Klik hier om over het binaire stelsel te lezen">Het binaire stelsel</a></li>
+        <li><a href="/html/kleurmodellen.html" title="Klik hier om over kleurmodellen te lezen">Kleurmodellen</a></li>
+        <li><a href="/html/compressie.html" title="Klik hier om over compressie te lezen">Compressie</a></li>
+        <li><a href="/html/bestandsformaten.html" title="klik hier om over bestandsformaten te lezen">Bestandsformaten</a></li>
+      </ul>
+
+    </div>
+
+    <div class="rechts">
+
+      <h1 class="tekst">Binaire stelsel</h3>
+      <p class="tekst">Dit is de Homepagina van de website over HTML van Joep van Wijngaarden uit A5B.</p>
+      <p class="tekst" >
+        Op deze website kan je uitleg lezen over verschillende aspecten van HTML, bijvoorbeeld over kleurmodellen, <br>
+        het binair stelsel, compressie en andere dingen. Je kan hier over lezen op verschillende pagina's waar je terecht kan komen <br>
+        d.m.v. het menu hier op de homepagina.</p>
+
+    </div>
+
+  </body>
 </html>
