@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    padding: 10px
 }
 
 p {
@@ -15,6 +16,7 @@ p {
     text-align: center;
     font-family: Georgia;
     background-color: white;
+    padding: 10px;
 }
 
 .tekst {
@@ -26,6 +28,7 @@ p {
 .menu {
     background-color: white;
     color:#000;
+    padding: 10px
 }
 
 p.menu {
@@ -35,6 +38,16 @@ p.menu {
 .active {
     background-color: #7c9ddb;
     color: white;
+}
+
+.rechts {
+    float: left;
+    width: 25%
+}
+
+.links {
+    float: right;
+    width: 75%;
 }
 
 ul {
