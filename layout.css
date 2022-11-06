@@ -20,7 +20,7 @@ p {
 .tekst {
     font-family: monospace;
     color:white;
-    float:right
+    text-align: right;
 }
 
 .menu {
