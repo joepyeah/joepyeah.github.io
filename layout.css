@@ -15,7 +15,6 @@ p {
     text-align: center;
     font-family: Georgia;
     background-color: white;
-    padding: 5px;
 }
 
 .tekst {
@@ -25,8 +24,6 @@ p {
 }
 
 .menu {
-    style
-    padding: 5px;
     background-color: white;
     color:#000;
 }
