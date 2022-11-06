@@ -28,7 +28,7 @@ p {
 .menu {
     text-align: center;
     font-size: 20px;
-    width: 33%;
+    width: 200px;
     background-color: white;
     color:#000;
     padding: 10px
@@ -55,6 +55,7 @@ ul {
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
+    height: 100%
 }
 
 li a {
