@@ -37,9 +37,8 @@ body {
 .footer {
     position: absolute;
     width: 100%;
-    left: 1;
-    bottom: 0;
-    background: #ffffff;
+    bottom: 500px;
+    background-color: #ffffff;
 }
 
 .footer p {
