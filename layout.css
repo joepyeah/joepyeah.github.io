@@ -41,7 +41,7 @@ h1.tekst {
     font-family: Georgia;
     background-color: white;
     padding: 10px;
-    bottom: 500px;
+    top: -500px;
 }
 
 .active {
