@@ -37,9 +37,6 @@ h3.tekst {
 }
 
 .footer {
-    position: absolute;
-    width: 100%;
-    bottom: 500px;
     background-color: #ffffff;
     text-align: center;
     font-size: 20px;
