@@ -7,12 +7,20 @@ body {
     padding: 10px
 }
 
-.titel {
+.titel, .footer {
     text-align: center;
     font-family: Georgia;
     background-color: white;
     padding: 10px;
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
 
 p.tekst {
     font-family: monospace;
@@ -34,14 +42,6 @@ h1.tekst {
     background-color: white;
     color:#000;
     padding: 10px
-}
-
-.footer {
-    text-align: center;
-    font-family: Georgia;
-    background-color: white;
-    padding: 10px;
-    top: -500px;
 }
 
 .active {
