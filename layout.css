@@ -21,12 +21,6 @@ body {
     width: 200px;
     background-color: white;
     color:#000;
-    padding: 10px
-}
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
 }
 
 p.tekst {
