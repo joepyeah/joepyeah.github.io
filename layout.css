@@ -14,15 +14,9 @@ body {
     padding: 10px;
 }
 
-p.tekst {
-    font-family: monospace;
-    font-size: 20px;
-    color:white;
-    text-align: right;
-}
-
 .tekst {
     font-family: monospace;
+    font-size: 20px;
     color:white;
     text-align: right;
 }
