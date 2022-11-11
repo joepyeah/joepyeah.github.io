@@ -21,6 +21,10 @@ body {
     text-align: right;
 }
 
+.afbeelding {
+    text-align:right
+}
+
 .menu {
     text-align: center;
     font-size: 20px;
