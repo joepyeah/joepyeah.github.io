@@ -21,6 +21,15 @@ body {
     text-align: right;
 }
 
+.footer {
+    text-align: center;
+    font-size: 20px;
+    width: 200px;
+    background-color: white;
+    color:#000;
+    padding: 10px
+}
+
 .menu {
     text-align: center;
     font-size: 20px;
