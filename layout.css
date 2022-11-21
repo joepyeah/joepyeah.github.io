@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("blauw.jpg");
+    background-image: url("/afbeeldingen/blauw.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
