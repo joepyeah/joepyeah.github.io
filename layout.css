@@ -82,20 +82,20 @@ li {
 li:last-child {
     border-bottom: none;
 }
-.dropbtn {
-    background-color: #04AA6D;
+.dropdownknop {
+    background-color: rgb(55, 90, 207);
     color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
 }
   
-  .dropdown {
+  .dropdownmenu {
     position: relative;
     display: inline-block;
 }
   
-  .dropdown-content {
+  .dropdowninhoud {
     display: none;
     position: absolute;
     background-color: #f1f1f1;
