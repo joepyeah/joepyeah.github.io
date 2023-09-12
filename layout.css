@@ -89,11 +89,20 @@ li:last-child {
     width: 200px;
     border: none;
 }
-  
+
+.dropknop a:hover {
+    background-color : rgb(55, 90, 207);
+    color : rgb(255, 255, 255)
+    width: 200px;
+    border: none;
+}
+
   .dropdown {
     position: relative;
     display: inline-block;
 }
+
+.dropdown:hover .dropinhoud {display: block;}
   
   .dropinhoud {
     display: none;
@@ -115,8 +124,7 @@ li:last-child {
     background-color : rgb(55, 90, 207);
     color : rgb(255, 255, 255)
 }
-  .dropdown:hover .dropinhoud {display: block;}
-  
+
   .dropdown:hover {
     background-color : rgb(55, 90, 207);
 }
