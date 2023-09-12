@@ -113,8 +113,12 @@ li:last-child {
     display: block;
 }
   
-  .dropinhoud a:hover {background-color: #ddd;}
-  
+  .dropinhoud a:hover {
+    background-color : rgb(55, 90, 207);
+    color : rgb(255, 255, 255)
+}
   .dropdown:hover .dropinhoud {display: block;}
   
-  .dropdown:hover .dropknop {background-color: #3e8e41;}
+  .dropdown:hover {
+    background-color : rgb(55, 90, 207);
+}
