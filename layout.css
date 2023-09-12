@@ -86,8 +86,6 @@ li:last-child {
 .dropknop {
     background-color: white;
     color: rgb(0, 0, 0);
-    padding: 10px;
-    font-size: 20px;
     width: 200px;
     border: none;
 }
