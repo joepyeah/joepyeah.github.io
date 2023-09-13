@@ -92,7 +92,7 @@ li:last-child {
     border: none;
 }
 
-.dropknop a:hover {
+.dropdown:hover .dropknop {
     background-color : rgb(55, 90, 207);
     color : rgb(255, 255, 255)
 }
